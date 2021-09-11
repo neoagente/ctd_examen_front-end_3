@@ -1,0 +1,23 @@
+body {
+  color: #ffffff;
+  font-size: 34px;
+  line-height: 1.5;
+}
+h1 {
+  margin-bottom: 50px;
+}
+.text {
+  margin-bottom: 20px;
+}
+.container {
+  width: 60%;
+  margin: 80px auto;
+}
+.netxbut {
+  color: #ffffff;
+  background: blue;
+  font-size: 24px;
+  padding: 10px 20px;
+  border: 0;
+  border-radius: 5px;
+}
